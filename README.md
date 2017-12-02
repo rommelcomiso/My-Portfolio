@@ -1,6 +1,3 @@
-# My Web Portfolio
-This is my Web Portfolio. To be submitted to Sir. Gimel Contillo
-
 <h1>Personal Information</h1> <br>
 <strong>Name :</strong> Rommel A. Comiso <br>
 <strong>Age :</strong> 19 yrs. old <br>
